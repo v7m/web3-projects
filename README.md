@@ -1,4 +1,10 @@
 # Web3 Development Portfolio
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 Below is a list of Web3 projects, demonstrating how decentralized technologies, smart contracts, and integrations with leading DeFi protocols can work together across different blockchain networks and programming languages. Each project includes source code, an overview, and details about the tech stack — showing how to build secure, transparent, and scalable decentralized applications with modern Web3 development tools and showcasing experience with various blockchain ecosystems.
 
 </br>
